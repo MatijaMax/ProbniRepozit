@@ -1,0 +1,8 @@
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\bin\Debug\Gitproba.exe.config
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\bin\Debug\Gitproba.exe
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\bin\Debug\Gitproba.pdb
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\obj\Debug\Gitproba.csproj.AssemblyReference.cache
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\obj\Debug\Gitproba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\obj\Debug\Gitproba.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\obj\Debug\Gitproba.exe
+C:\Users\Matija\Desktop\PROBA\Gitproba\Gitproba\obj\Debug\Gitproba.pdb
