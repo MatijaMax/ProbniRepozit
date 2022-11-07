@@ -11,6 +11,7 @@ namespace Gitproba
         static void Main(string[] args)
         {
             Console.WriteLine("POZDRAV GITE");
+            Console.WriteLine("POZDRAV GITE DRUGI PUT");
 
 
 
